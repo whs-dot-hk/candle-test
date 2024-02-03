@@ -1,6 +1,6 @@
 {
   inputs.crane.url = "github:ipetkov/crane";
-  inputs.fenix.url = "github:nix-community/fenix";
+  inputs.fenix.url = "github:nix-community/fenix/main";
   inputs.flake-utils.url = "github:numtide/flake-utils";
   inputs.nixpkgs.url = "github:nixos/nixpkgs/nixpkgs-unstable";
 
